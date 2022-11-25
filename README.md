@@ -1,1 +1,1 @@
-# Software_Project_Management
+Work for software project management throughout the semester
